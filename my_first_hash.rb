@@ -23,7 +23,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  oil paintings
+  puts oil paintings
 
 end
 
