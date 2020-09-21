@@ -23,7 +23,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  puts shipping_manifest["oil painting"]
+   shipping_manifest["oil painting"]
 
 end
 
@@ -42,6 +42,6 @@ def adding
 
 
   # return the shipping_manifest hash below
-  puts shipping_manifest
+  shipping_manifest
 
 end
